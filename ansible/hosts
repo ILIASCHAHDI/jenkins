@@ -2,5 +2,5 @@
 timeapp ansible_host=10.0.2.4
 [servers:vars]
 ansible_user='labvm'
-ansible_password='770427' 
+ansible_password='123456789' 
 
